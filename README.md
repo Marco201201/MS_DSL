@@ -1,10 +1,10 @@
 # MS_DSL
 
-##Aufgabe 1 - Interne DSL
+## Aufgabe 1 - Interne DSL
 
 Hier habe ich ein kleines Beispiel zu Audiobooks gebastelt. 
 
-##Aufgabe 2 - Externe DSL
+## Aufgabe 2 - Externe DSL
 
 Ich habe hier zuerst versucht die vorgeschlagenen Werkzeuge auf meinem Windows-Rechner zum Laufen zu bekommen. Das hat allerdings nur bei MPS funktioniert. Hier hatte ich mich ein wenig mit dem Taschenrechner-Beispiel beschäftigt und festgestellt, dass MPS doch sehr "kompliziert" ist. 
 
